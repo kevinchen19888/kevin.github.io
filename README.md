@@ -1,2 +1,2 @@
-# kevinchen19888.github.io
+# kevin.github.io
 a personal blog from GitPage
